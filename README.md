@@ -280,5 +280,3 @@ While this framework is primarily keyword-driven, integrating the Page Object Mo
 *   **Current State:** Locators are directly specified in the `TestSteps` sheet. The `PageName` column was included in the Excel design as a placeholder for future POM integration.
 
 ---
-#   K D F _ S e l e n i u m  
- 
